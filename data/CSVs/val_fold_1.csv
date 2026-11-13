@@ -1,0 +1,1591 @@
+Path,Name,Label
+data/brain_tumor_mri/Training/no tumor/MR0077 (9).jpg,MR0077 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (8).jpg,MR0030 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0119.jpg,Tr-no_0119.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0047 (3).jpg,MR0047 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (5).jpg,MR0074 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1362.jpg,Tr-no_1362.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0808.jpg,Tr-no_0808.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0959.jpg,Tr-no_0959.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (28).jpg,MR0011 (28).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (5).jpg,MR0030 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (55).jpg,MR0011 (55).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1385.jpg,Tr-no_1385.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (3).jpg,MR0074 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (83).jpg,MR0008 (83).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0143.jpg,Tr-no_0143.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (9).jpg,MR0008 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0493.jpg,Tr-no_0493.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (82).jpg,MR0011 (82).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1257.jpg,Tr-no_1257.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (115).jpg,MR0011 (115).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0358.jpg,Tr-no_0358.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (2).jpg,MR0031 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (9).jpg,MR0030 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0811.jpg,Tr-no_0811.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1426.jpg,Tr-no_1426.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (86).jpg,MR0011 (86).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (14).jpg,MR0006 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (171).jpg,MR0011 (171).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0650.jpg,Tr-no_0650.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1198.jpg,Tr-no_1198.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (9).jpg,MR0004 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (86).jpg,MR0008 (86).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (49).jpg,MR0011 (49).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (32).jpg,MR0006 (32).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0675.jpg,Tr-no_0675.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (6).jpg,MR0033 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (26).jpg,MR0008 (26).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (77).jpg,MR0008 (77).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0564.jpg,Tr-no_0564.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (106).jpg,MR0008 (106).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0699.jpg,Tr-no_0699.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1033.jpg,Tr-no_1033.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1281.jpg,Tr-no_1281.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (7).jpg,MR0033 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (43).jpg,MR0008 (43).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (128).jpg,MR0011 (128).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (19).jpg,MR0011 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0041 (3).jpg,MR0041 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (95).jpg,MR0008 (95).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0937.jpg,Tr-no_0937.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (33).jpg,MR0011 (33).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (17).jpg,MR0052 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (99).jpg,MR0008 (99).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0047.jpg,MR0047.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (11).jpg,MR0031 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1563.jpg,Tr-no_1563.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (133).jpg,MR0011 (133).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0307.jpg,Tr-no_0307.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (19).jpg,MR0077 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (147).jpg,MR0011 (147).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (8).jpg,MR0011 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (121).jpg,MR0011 (121).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (80).jpg,MR0011 (80).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (2).jpg,MR0057 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0498.jpg,Tr-no_0498.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (13).jpg,MR0031 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0041 (2).jpg,MR0041 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (14).jpg,MR0004 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0952.jpg,Tr-no_0952.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0041.jpg,MR0041.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (75).jpg,MR0008 (75).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (143).jpg,MR0011 (143).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (9).jpg,MR0057 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0128.jpg,MR0128.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031.jpg,MR0031.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0944.jpg,Tr-no_0944.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (167).jpg,MR0011 (167).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0679.jpg,Tr-no_0679.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (8).jpg,MR0071 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0134.jpg,MR0134.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1571.jpg,Tr-no_1571.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (15).jpg,MR0033 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (152).jpg,MR0011 (152).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (14).jpg,MR0071 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (24).jpg,MR0008 (24).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1029.jpg,Tr-no_1029.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1177.jpg,Tr-no_1177.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (16).jpg,MR0006 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (125).jpg,MR0011 (125).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0962.jpg,Tr-no_0962.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (66).jpg,MR0011 (66).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (12).jpg,MR0004 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1505.jpg,Tr-no_1505.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0727.jpg,Tr-no_0727.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (50).jpg,MR0011 (50).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (17).jpg,MR0011 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0407.jpg,Tr-no_0407.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (20).jpg,MR0077 (20).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0306.jpg,Tr-no_0306.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (43).jpg,MR0006 (43).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (30).jpg,MR0008 (30).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (69).jpg,MR0008 (69).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (126).jpg,MR0008 (126).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (7).jpg,MR0011 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0252.jpg,Tr-no_0252.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (6).jpg,MR0052 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0285.jpg,Tr-no_0285.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0742.jpg,Tr-no_0742.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (6).jpg,MR0030 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (13).jpg,MR0057 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (125).jpg,MR0008 (125).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (123).jpg,MR0011 (123).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0647.jpg,Tr-no_0647.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0259.jpg,Tr-no_0259.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0480.jpg,Tr-no_0480.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (16).jpg,MR0008 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (36).jpg,MR0011 (36).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (139).jpg,MR0011 (139).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (109).jpg,MR0008 (109).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0864.jpg,Tr-no_0864.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1055.jpg,Tr-no_1055.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (16).jpg,MR0004 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (101).jpg,MR0008 (101).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (64).jpg,MR0011 (64).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1081.jpg,Tr-no_1081.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0583.jpg,Tr-no_0583.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (2).jpg,MR0052 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (29).jpg,MR0011 (29).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1117.jpg,Tr-no_1117.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (56).jpg,MR0011 (56).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0374.jpg,Tr-no_0374.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (59).jpg,MR0011 (59).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (27).jpg,MR0011 (27).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (47).jpg,MR0011 (47).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0155.jpg,Tr-no_0155.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (19).jpg,MR0004 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0756.jpg,Tr-no_0756.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (103).jpg,MR0011 (103).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0939.jpg,Tr-no_0939.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (14).jpg,MR0057 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (5).jpg,MR0011 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0652.jpg,Tr-no_0652.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1450.jpg,Tr-no_1450.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0548.jpg,Tr-no_0548.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (135).jpg,MR0011 (135).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0900.jpg,Tr-no_0900.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (3).jpg,MR0008 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (14).jpg,MR0031 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (94).jpg,MR0008 (94).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1557.jpg,Tr-no_1557.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (3).jpg,MR0030 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (38).jpg,MR0011 (38).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (88).jpg,MR0011 (88).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (34).jpg,MR0011 (34).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0049.jpg,Tr-no_0049.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (13).jpg,MR0008 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (101).jpg,MR0011 (101).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (69).jpg,MR0011 (69).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (44).jpg,MR0006 (44).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (10).jpg,MR0011 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (5).jpg,MR0077 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (11).jpg,MR0033 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (78).jpg,MR0008 (78).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0327.jpg,Tr-no_0327.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (38).jpg,MR0006 (38).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (44).jpg,MR0008 (44).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (7).jpg,MR0071 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (25).jpg,MR0011 (25).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074.jpg,MR0074.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (25).jpg,MR0008 (25).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (111).jpg,MR0008 (111).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0649.jpg,Tr-no_0649.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0551.jpg,Tr-no_0551.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (12).jpg,MR0006 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (22).jpg,MR0011 (22).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (37).jpg,MR0008 (37).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (13).jpg,MR0077 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0041 (4).jpg,MR0041 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (14).jpg,MR0077 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (13).jpg,MR0074 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (22).jpg,MR0006 (22).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (17).jpg,MR0074 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0593.jpg,Tr-no_0593.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (129).jpg,MR0011 (129).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (116).jpg,MR0008 (116).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (56).jpg,MR0008 (56).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (47).jpg,MR0008 (47).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0241.jpg,Tr-no_0241.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1424.jpg,Tr-no_1424.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1472.jpg,Tr-no_1472.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0524.jpg,Tr-no_0524.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (3).jpg,MR0004 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1469.jpg,Tr-no_1469.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (22).jpg,MR0008 (22).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (10).jpg,MR0052 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (29).jpg,MR0006 (29).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0525.jpg,Tr-no_0525.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0992.jpg,Tr-no_0992.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0047.jpg,Tr-no_0047.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (6).jpg,MR0031 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (3).jpg,MR0033 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0026.jpg,Tr-no_0026.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1425.jpg,Tr-no_1425.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1510.jpg,Tr-no_1510.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0888.jpg,Tr-no_0888.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0442.jpg,Tr-no_0442.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1205.jpg,Tr-no_1205.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (102).jpg,MR0008 (102).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1468.jpg,Tr-no_1468.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (44).jpg,MR0011 (44).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (12).jpg,MR0077 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (11).jpg,MR0006 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1051.jpg,Tr-no_1051.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1048.jpg,Tr-no_1048.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (85).jpg,MR0011 (85).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (67).jpg,MR0011 (67).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0508.jpg,Tr-no_0508.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (5).jpg,MR0033 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (140).jpg,MR0011 (140).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (83).jpg,MR0011 (83).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1247.jpg,Tr-no_1247.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (94).jpg,MR0011 (94).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0090.jpg,Tr-no_0090.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0698.jpg,Tr-no_0698.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0265.jpg,Tr-no_0265.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1186.jpg,Tr-no_1186.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (88).jpg,MR0008 (88).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1369.jpg,Tr-no_1369.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (30).jpg,MR0006 (30).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1375.jpg,Tr-no_1375.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (91).jpg,MR0008 (91).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (28).jpg,MR0008 (28).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1442.jpg,Tr-no_1442.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1291.jpg,Tr-no_1291.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (100).jpg,MR0008 (100).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1099.jpg,Tr-no_1099.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1144.jpg,Tr-no_1144.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0658.jpg,Tr-no_0658.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (21).jpg,MR0006 (21).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (15).jpg,MR0006 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (61).jpg,MR0008 (61).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (80).jpg,MR0008 (80).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0798.jpg,Tr-no_0798.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (58).jpg,MR0011 (58).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1374.jpg,Tr-no_1374.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1031.jpg,Tr-no_1031.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (8).jpg,MR0008 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (153).jpg,MR0011 (153).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0455.jpg,Tr-no_0455.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (72).jpg,MR0011 (72).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (6).jpg,MR0071 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (119).jpg,MR0011 (119).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (25).jpg,MR0006 (25).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006.jpg,MR0006.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (4).jpg,MR0030 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (49).jpg,MR0006 (49).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1407.jpg,Tr-no_1407.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (55).jpg,MR0008 (55).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0757.jpg,Tr-no_0757.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (9).jpg,MR0033 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (71).jpg,MR0011 (71).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (118).jpg,MR0008 (118).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (112).jpg,MR0011 (112).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0410.jpg,Tr-no_0410.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (122).jpg,MR0011 (122).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1193.jpg,Tr-no_1193.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (132).jpg,MR0011 (132).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008.jpg,MR0008.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0674.jpg,Tr-no_0674.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (4).jpg,MR0077 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0881.jpg,Tr-no_0881.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0079.jpg,Tr-no_0079.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (42).jpg,MR0011 (42).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (63).jpg,MR0011 (63).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (118).jpg,MR0011 (118).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0636.jpg,Tr-no_0636.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0042 (3).jpg,MR0042 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0030.jpg,Tr-no_0030.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (48).jpg,MR0011 (48).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0630.jpg,Tr-no_0630.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (13).jpg,MR0011 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (27).jpg,MR0006 (27).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (32).jpg,MR0011 (32).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0046.jpg,Tr-no_0046.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0823.jpg,Tr-no_0823.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (20).jpg,MR0006 (20).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0599.jpg,Tr-no_0599.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (12).jpg,MR0031 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1223.jpg,Tr-no_1223.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1434.jpg,Tr-no_1434.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0351.jpg,Tr-no_0351.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (52).jpg,MR0011 (52).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1143.jpg,Tr-no_1143.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0471.jpg,Tr-no_0471.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0586.jpg,Tr-no_0586.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1249.jpg,Tr-no_1249.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0050.jpg,Tr-no_0050.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (157).jpg,MR0011 (157).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (13).jpg,MR0004 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1447.jpg,Tr-no_1447.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0805.jpg,Tr-no_0805.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (16).jpg,MR0057 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0931.jpg,Tr-no_0931.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1347.jpg,Tr-no_1347.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1294.jpg,Tr-no_1294.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0663.jpg,Tr-no_0663.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1330.jpg,Tr-no_1330.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (48).jpg,MR0006 (48).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (150).jpg,MR0011 (150).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0434.jpg,Tr-no_0434.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0089.jpg,Tr-no_0089.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1224.jpg,Tr-no_1224.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (18).jpg,MR0011 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1537.jpg,Tr-no_1537.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1232.jpg,Tr-no_1232.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0595.jpg,Tr-no_0595.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (72).jpg,MR0008 (72).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1365.jpg,Tr-no_1365.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (16).jpg,MR0077 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (18).jpg,MR0008 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0066.jpg,Tr-no_0066.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0292.jpg,Tr-no_0292.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (21).jpg,MR0011 (21).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1363.jpg,Tr-no_1363.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (28).jpg,MR0006 (28).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (9).jpg,MR0006 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (14).jpg,MR0074 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0042.jpg,MR0042.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (39).jpg,MR0006 (39).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (121).jpg,MR0008 (121).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (165).jpg,MR0011 (165).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (73).jpg,MR0011 (73).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (34).jpg,MR0006 (34).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (8).jpg,MR0057 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (11).jpg,MR0057 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (169).jpg,MR0011 (169).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0273.jpg,Tr-no_0273.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1438.jpg,Tr-no_1438.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (4).jpg,MR0074 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (19).jpg,MR0074 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (4).jpg,MR0052 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1343.jpg,Tr-no_1343.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (7).jpg,MR0052 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (7).jpg,MR0031 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0044.jpg,Tr-no_0044.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0044 (2).jpg,MR0044 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (37).jpg,MR0011 (37).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (67).jpg,MR0008 (67).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1429.jpg,Tr-no_1429.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1024.jpg,Tr-no_1024.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (13).jpg,MR0033 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (136).jpg,MR0011 (136).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (120).jpg,MR0011 (120).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0422.jpg,Tr-no_0422.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (5).jpg,MR0031 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (137).jpg,MR0011 (137).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1313.jpg,Tr-no_1313.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (79).jpg,MR0011 (79).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1094.jpg,Tr-no_1094.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (123).jpg,MR0008 (123).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (31).jpg,MR0008 (31).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (105).jpg,MR0011 (105).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (96).jpg,MR0008 (96).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0735.jpg,Tr-no_0735.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (30).jpg,MR0011 (30).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (3).jpg,MR0031 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0448.jpg,Tr-no_0448.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0461.jpg,Tr-no_0461.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1287.jpg,Tr-no_1287.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0399.jpg,Tr-no_0399.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (97).jpg,MR0008 (97).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (19).jpg,MR0057 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (107).jpg,MR0008 (107).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (45).jpg,MR0006 (45).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0369.jpg,Tr-no_0369.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (89).jpg,MR0011 (89).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (48).jpg,MR0008 (48).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (3).jpg,MR0011 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (10).jpg,MR0057 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (7).jpg,MR0004 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (6).jpg,MR0004 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (46).jpg,MR0006 (46).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (18).jpg,MR0004 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1214.jpg,Tr-no_1214.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (51).jpg,MR0008 (51).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (35).jpg,MR0008 (35).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0391.jpg,Tr-no_0391.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0474.jpg,Tr-no_0474.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (17).jpg,MR0033 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (74).jpg,MR0008 (74).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0419.jpg,Tr-no_0419.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (54).jpg,MR0011 (54).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (79).jpg,MR0008 (79).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0847.jpg,Tr-no_0847.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (105).jpg,MR0008 (105).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (6).jpg,MR0008 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (102).jpg,MR0011 (102).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033.jpg,MR0033.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (145).jpg,MR0011 (145).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0530.jpg,Tr-no_0530.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0404.jpg,Tr-no_0404.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (4).jpg,MR0008 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (90).jpg,MR0008 (90).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (12).jpg,MR0033 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (124).jpg,MR0008 (124).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0433.jpg,Tr-no_0433.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (68).jpg,MR0008 (68).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (144).jpg,MR0011 (144).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (18).jpg,MR0052 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (15).jpg,MR0052 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1451.jpg,Tr-no_1451.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (84).jpg,MR0011 (84).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (12).jpg,MR0071 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (17).jpg,MR0077 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0628.jpg,Tr-no_0628.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (4).jpg,MR0071 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (4).jpg,MR0033 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (35).jpg,MR0006 (35).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004.jpg,MR0004.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (70).jpg,MR0011 (70).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (70).jpg,MR0008 (70).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1230.jpg,Tr-no_1230.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (9).jpg,MR0074 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1417.jpg,Tr-no_1417.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1265.jpg,Tr-no_1265.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (45).jpg,MR0008 (45).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1109.jpg,Tr-no_1109.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (106).jpg,MR0011 (106).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1211.jpg,Tr-no_1211.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0168.jpg,Tr-no_0168.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (40).jpg,MR0008 (40).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1419.jpg,Tr-no_1419.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (2).jpg,MR0071 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (6).jpg,MR0006 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (126).jpg,MR0011 (126).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1534.jpg,Tr-no_1534.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (11).jpg,MR0011 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0796.jpg,Tr-no_0796.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0114.jpg,Tr-no_0114.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (85).jpg,MR0008 (85).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0933.jpg,Tr-no_0933.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0749.jpg,Tr-no_0749.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (142).jpg,MR0011 (142).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (68).jpg,MR0011 (68).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (53).jpg,MR0011 (53).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (37).jpg,MR0006 (37).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (29).jpg,MR0008 (29).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0314.jpg,Tr-no_0314.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0859.jpg,Tr-no_0859.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (120).jpg,MR0008 (120).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (22).jpg,MR0004 (22).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (99).jpg,MR0011 (99).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (51).jpg,MR0011 (51).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (36).jpg,MR0008 (36).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1525.jpg,Tr-no_1525.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0567.jpg,Tr-no_0567.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (12).jpg,MR0008 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (131).jpg,MR0011 (131).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0898.jpg,Tr-no_0898.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0782.jpg,Tr-no_0782.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (92).jpg,MR0008 (92).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0441.jpg,Tr-no_0441.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (18).jpg,MR0006 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0232.jpg,Tr-no_0232.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (60).jpg,MR0008 (60).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (26).jpg,MR0006 (26).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (32).jpg,MR0008 (32).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1210.jpg,Tr-no_1210.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1498.jpg,Tr-no_1498.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (151).jpg,MR0011 (151).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0943.jpg,Tr-no_0943.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1496.jpg,Tr-no_1496.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (163).jpg,MR0011 (163).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (81).jpg,MR0011 (81).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (13).jpg,MR0052 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (77).jpg,MR0011 (77).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1489.jpg,Tr-no_1489.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (40).jpg,MR0011 (40).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1402.jpg,Tr-no_1402.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (10).jpg,MR0008 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (16).jpg,MR0011 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (90).jpg,MR0011 (90).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (64).jpg,MR0008 (64).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0041 (5).jpg,MR0041 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (20).jpg,MR0011 (20).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (65).jpg,MR0011 (65).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0813.jpg,Tr-no_0813.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0617.jpg,Tr-no_0617.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0565.jpg,Tr-no_0565.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0073.jpg,Tr-no_0073.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (141).jpg,MR0011 (141).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0901.jpg,Tr-no_0901.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0175.jpg,Tr-no_0175.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1146.jpg,Tr-no_1146.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1001.jpg,Tr-no_1001.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (11).jpg,MR0004 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (45).jpg,MR0011 (45).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071.jpg,MR0071.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (42).jpg,MR0008 (42).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (41).jpg,MR0008 (41).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1410.jpg,Tr-no_1410.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (96).jpg,MR0011 (96).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (18).jpg,MR0033 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (13).jpg,MR0006 (13).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (54).jpg,MR0008 (54).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (3).jpg,MR0057 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011.jpg,MR0011.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (10).jpg,MR0074 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (52).jpg,MR0008 (52).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1256.jpg,Tr-no_1256.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1500.jpg,Tr-no_1500.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1140.jpg,Tr-no_1140.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0301.jpg,Tr-no_0301.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (35).jpg,MR0011 (35).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (2).jpg,MR0006 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0615.jpg,Tr-no_0615.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0793.jpg,Tr-no_0793.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (14).jpg,MR0008 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (2).jpg,MR0030 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (6).jpg,MR0011 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (87).jpg,MR0011 (87).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (33).jpg,MR0008 (33).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0514.jpg,Tr-no_0514.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0897.jpg,Tr-no_0897.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (100).jpg,MR0011 (100).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1026.jpg,Tr-no_1026.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (4).jpg,MR0004 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (31).jpg,MR0011 (31).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (26).jpg,MR0011 (26).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1138.jpg,Tr-no_1138.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0092.jpg,Tr-no_0092.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (36).jpg,MR0006 (36).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (4).jpg,MR0031 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (50).jpg,MR0008 (50).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (57).jpg,MR0011 (57).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0550.jpg,Tr-no_0550.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1466.jpg,Tr-no_1466.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (3).jpg,MR0052 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0107.jpg,Tr-no_0107.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1010.jpg,Tr-no_1010.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (111).jpg,MR0011 (111).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (166).jpg,MR0011 (166).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (15).jpg,MR0004 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (14).jpg,MR0011 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (15).jpg,MR0011 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (91).jpg,MR0011 (91).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (21).jpg,MR0008 (21).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (74).jpg,MR0011 (74).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (31).jpg,MR0006 (31).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (10).jpg,MR0006 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (62).jpg,MR0008 (62).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0093.jpg,Tr-no_0093.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030.jpg,MR0030.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (7).jpg,MR0077 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (172).jpg,MR0011 (172).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (9).jpg,MR0011 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0578.jpg,Tr-no_0578.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (82).jpg,MR0008 (82).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0097.jpg,Tr-no_0097.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0709.jpg,Tr-no_0709.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (95).jpg,MR0011 (95).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (104).jpg,MR0011 (104).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (11).jpg,MR0077 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (10).jpg,MR0004 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (14).jpg,MR0033 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (62).jpg,MR0011 (62).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (116).jpg,MR0011 (116).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0694.jpg,Tr-no_0694.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (7).jpg,MR0008 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (146).jpg,MR0011 (146).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (46).jpg,MR0011 (46).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0061.jpg,Tr-no_0061.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0998.jpg,Tr-no_0998.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (23).jpg,MR0008 (23).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (66).jpg,MR0008 (66).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1457.jpg,Tr-no_1457.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (61).jpg,MR0011 (61).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (93).jpg,MR0008 (93).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (7).jpg,MR0057 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0641.jpg,Tr-no_0641.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (3).jpg,MR0006 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0829.jpg,Tr-no_0829.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (17).jpg,MR0006 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0863.jpg,Tr-no_0863.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (87).jpg,MR0008 (87).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (39).jpg,MR0011 (39).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (9).jpg,MR0052 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (50).jpg,MR0006 (50).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (4).jpg,MR0057 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (6).jpg,MR0074 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (8).jpg,MR0004 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1242.jpg,Tr-no_1242.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1036.jpg,Tr-no_1036.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (122).jpg,MR0008 (122).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0146.jpg,Tr-no_0146.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (109).jpg,MR0011 (109).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (43).jpg,MR0011 (43).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0047 (2).jpg,MR0047 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (10).jpg,MR0071 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057.jpg,MR0057.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (76).jpg,MR0011 (76).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (53).jpg,MR0008 (53).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (59).jpg,MR0008 (59).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0639.jpg,Tr-no_0639.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (92).jpg,MR0011 (92).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0541.jpg,Tr-no_0541.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (98).jpg,MR0011 (98).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (8).jpg,MR0031 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (6).jpg,MR0057 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0927.jpg,Tr-no_0927.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (17).jpg,MR0008 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (170).jpg,MR0011 (170).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (164).jpg,MR0011 (164).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0618.jpg,Tr-no_0618.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0342.jpg,Tr-no_0342.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (39).jpg,MR0008 (39).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0450.jpg,Tr-no_0450.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (10).jpg,MR0031 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (134).jpg,MR0011 (134).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (17).jpg,MR0004 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0670.jpg,Tr-no_0670.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1158.jpg,Tr-no_1158.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (63).jpg,MR0008 (63).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (23).jpg,MR0006 (23).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (127).jpg,MR0011 (127).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0942.jpg,Tr-no_0942.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (16).jpg,MR0031 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (138).jpg,MR0011 (138).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (7).jpg,MR0030 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (124).jpg,MR0011 (124).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (11).jpg,MR0052 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1126.jpg,Tr-no_1126.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0044.jpg,MR0044.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1488.jpg,Tr-no_1488.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (33).jpg,MR0006 (33).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (97).jpg,MR0011 (97).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0496.jpg,Tr-no_0496.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0354.jpg,Tr-no_0354.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (15).jpg,MR0071 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0432.jpg,Tr-no_0432.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1503.jpg,Tr-no_1503.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0880.jpg,Tr-no_0880.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (7).jpg,MR0074 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0711.jpg,Tr-no_0711.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (3).jpg,MR0071 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (4).jpg,MR0006 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (2).jpg,MR0033 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (4).jpg,MR0011 (4).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0507.jpg,Tr-no_0507.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1570.jpg,Tr-no_1570.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (8).jpg,MR0052 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0357.jpg,Tr-no_0357.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (19).jpg,MR0006 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (18).jpg,MR0057 (18).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (5).jpg,MR0004 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (114).jpg,MR0011 (114).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0048.jpg,Tr-no_0048.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0412.jpg,Tr-no_0412.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (34).jpg,MR0008 (34).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (8).jpg,MR0077 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (119).jpg,MR0008 (119).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (15).jpg,MR0057 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (10).jpg,MR0077 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0469.jpg,Tr-no_0469.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (20).jpg,MR0008 (20).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (10).jpg,MR0033 (10).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1229.jpg,Tr-no_1229.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (2).jpg,MR0011 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0042 (2).jpg,MR0042 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0712.jpg,Tr-no_0712.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (58).jpg,MR0008 (58).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0619.jpg,Tr-no_0619.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0030 (11).jpg,MR0030 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (104).jpg,MR0008 (104).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (2).jpg,MR0074 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1277.jpg,Tr-no_1277.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1000.jpg,Tr-no_1000.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0209.jpg,Tr-no_0209.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (15).jpg,MR0074 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0603.jpg,Tr-no_0603.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0929.jpg,Tr-no_0929.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077.jpg,MR0077.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0540.jpg,Tr-no_0540.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1019.jpg,Tr-no_1019.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0560.jpg,Tr-no_0560.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (11).jpg,MR0071 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (117).jpg,MR0011 (117).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (5).jpg,MR0071 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0570.jpg,Tr-no_0570.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (73).jpg,MR0008 (73).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (113).jpg,MR0011 (113).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (158).jpg,MR0011 (158).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (78).jpg,MR0011 (78).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (108).jpg,MR0011 (108).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (12).jpg,MR0074 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (46).jpg,MR0008 (46).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0894.jpg,Tr-no_0894.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (11).jpg,MR0008 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (41).jpg,MR0011 (41).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0938.jpg,Tr-no_0938.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1397.jpg,Tr-no_1397.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0841.jpg,Tr-no_0841.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (24).jpg,MR0011 (24).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (8).jpg,MR0006 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (75).jpg,MR0011 (75).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0542.jpg,Tr-no_0542.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (84).jpg,MR0008 (84).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (17).jpg,MR0031 (17).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (130).jpg,MR0011 (130).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1499.jpg,Tr-no_1499.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (168).jpg,MR0011 (168).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (14).jpg,MR0052 (14).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1042.jpg,Tr-no_1042.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (7).jpg,MR0006 (7).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (24).jpg,MR0006 (24).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (8).jpg,MR0074 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (89).jpg,MR0008 (89).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0006 (5).jpg,MR0006 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (5).jpg,MR0008 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0671.jpg,Tr-no_0671.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0983.jpg,Tr-no_0983.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (93).jpg,MR0011 (93).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (65).jpg,MR0008 (65).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1414.jpg,Tr-no_1414.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0031 (9).jpg,MR0031 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (23).jpg,MR0011 (23).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (12).jpg,MR0011 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (107).jpg,MR0011 (107).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0907.jpg,Tr-no_0907.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0033 (8).jpg,MR0033 (8).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (49).jpg,MR0008 (49).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (60).jpg,MR0011 (60).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (6).jpg,MR0077 (6).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (98).jpg,MR0008 (98).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1401.jpg,Tr-no_1401.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0626.jpg,Tr-no_0626.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0664.jpg,Tr-no_0664.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1415.jpg,Tr-no_1415.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (19).jpg,MR0008 (19).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1529.jpg,Tr-no_1529.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1227.jpg,Tr-no_1227.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1406.jpg,Tr-no_1406.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0057.jpg,Tr-no_0057.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (11).jpg,MR0074 (11).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (12).jpg,MR0052 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (3).jpg,MR0077 (3).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (2).jpg,MR0077 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1398.jpg,Tr-no_1398.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052 (5).jpg,MR0052 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (2).jpg,MR0008 (2).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0071 (9).jpg,MR0071 (9).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0127.jpg,Tr-no_0127.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (57).jpg,MR0008 (57).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0515.jpg,Tr-no_0515.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (71).jpg,MR0008 (71).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0074 (16).jpg,MR0074 (16).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0077 (15).jpg,MR0077 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (27).jpg,MR0008 (27).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0011 (110).jpg,MR0011 (110).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (38).jpg,MR0008 (38).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (81).jpg,MR0008 (81).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0052.jpg,MR0052.jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0519.jpg,Tr-no_0519.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (76).jpg,MR0008 (76).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_1463.jpg,Tr-no_1463.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (12).jpg,MR0057 (12).jpg,0
+data/brain_tumor_mri/Training/no tumor/Tr-no_0834.jpg,Tr-no_0834.jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0057 (5).jpg,MR0057 (5).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0008 (15).jpg,MR0008 (15).jpg,0
+data/brain_tumor_mri/Training/no tumor/MR0004 (2).jpg,MR0004 (2).jpg,0
+data/brain_tumor_mri/Training/tumor/Tr-gl_0294.jpg,Tr-gl_0294.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0307.jpg,Tr-gl_0307.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0493.jpg,Tr-gl_0493.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0184.jpg,Tr-pi_0184.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1215.jpg,Tr-gl_1215.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0768.jpg,Tr-me_0768.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0110.jpg,Tr-gl_0110.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1207.jpg,Tr-gl_1207.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0547.jpg,Tr-pi_0547.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0694.jpg,Tr-me_0694.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0247.jpg,Tr-me_0247.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1122.jpg,Tr-pi_1122.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0632.jpg,Tr-pi_0632.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1075.jpg,Tr-me_1075.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0998.jpg,Tr-me_0998.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0129.jpg,Tr-gl_0129.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1026.jpg,Tr-pi_1026.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0578.jpg,Tr-me_0578.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0333.jpg,Tr-gl_0333.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0499.jpg,Tr-me_0499.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0700.jpg,Tr-gl_0700.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1169.jpg,Tr-pi_1169.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0381.jpg,Tr-gl_0381.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0030.jpg,Tr-pi_0030.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0576.jpg,Tr-pi_0576.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1153.jpg,Tr-gl_1153.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1174.jpg,Tr-me_1174.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0280.jpg,Tr-me_0280.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0988.jpg,Tr-pi_0988.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1426.jpg,Tr-pi_1426.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0088.jpg,Tr-me_0088.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0270.jpg,Tr-gl_0270.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1132.jpg,Tr-gl_1132.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0277.jpg,Tr-me_0277.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0276.jpg,Tr-me_0276.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0186.jpg,Tr-pi_0186.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1188.jpg,Tr-me_1188.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0545.jpg,Tr-me_0545.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1024.jpg,Tr-me_1024.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0801.jpg,Tr-me_0801.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0763.jpg,Tr-me_0763.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0439.jpg,Tr-gl_0439.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1236.jpg,Tr-pi_1236.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1456.jpg,Tr-pi_1456.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0326.jpg,Tr-me_0326.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0380.jpg,Tr-gl_0380.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0170.jpg,Tr-me_0170.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0461.jpg,Tr-me_0461.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1327.jpg,Tr-me_1327.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0468.jpg,Tr-me_0468.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0327.jpg,Tr-pi_0327.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1300.jpg,Tr-gl_1300.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0909.jpg,Tr-me_0909.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0178.jpg,Tr-gl_0178.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1061.jpg,Tr-gl_1061.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0947.jpg,Tr-gl_0947.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0095.jpg,Tr-pi_0095.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0660.jpg,Tr-gl_0660.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0905.jpg,Tr-pi_0905.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0324.jpg,Tr-me_0324.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0737.jpg,Tr-me_0737.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0878.jpg,Tr-gl_0878.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1308.jpg,Tr-pi_1308.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0284.jpg,Tr-me_0284.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0458.jpg,Tr-me_0458.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0751.jpg,Tr-me_0751.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0518.jpg,Tr-gl_0518.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1226.jpg,Tr-pi_1226.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1026.jpg,Tr-me_1026.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0874.jpg,Tr-pi_0874.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0154.jpg,Tr-me_0154.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1167.jpg,Tr-pi_1167.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1227.jpg,Tr-gl_1227.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0940.jpg,Tr-me_0940.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1237.jpg,Tr-gl_1237.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0924.jpg,Tr-pi_0924.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0384.jpg,Tr-gl_0384.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0815.jpg,Tr-me_0815.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0432.jpg,Tr-pi_0432.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0895.jpg,Tr-me_0895.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0025.jpg,Tr-gl_0025.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0542.jpg,Tr-pi_0542.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0746.jpg,Tr-me_0746.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1171.jpg,Tr-me_1171.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0111.jpg,Tr-me_0111.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0850.jpg,Tr-gl_0850.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0256.jpg,Tr-pi_0256.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0583.jpg,Tr-me_0583.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0647.jpg,Tr-pi_0647.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0358.jpg,Tr-gl_0358.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1191.jpg,Tr-me_1191.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0260.jpg,Tr-me_0260.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0870.jpg,Tr-me_0870.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1159.jpg,Tr-pi_1159.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0674.jpg,Tr-me_0674.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1313.jpg,Tr-pi_1313.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1132.jpg,Tr-pi_1132.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0143.jpg,Tr-me_0143.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0221.jpg,Tr-gl_0221.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1455.jpg,Tr-pi_1455.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0790.jpg,Tr-gl_0790.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0660.jpg,Tr-me_0660.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1040.jpg,Tr-me_1040.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1069.jpg,Tr-gl_1069.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0832.jpg,Tr-me_0832.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0138.jpg,Tr-gl_0138.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1233.jpg,Tr-me_1233.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1032.jpg,Tr-me_1032.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0067.jpg,Tr-me_0067.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0616.jpg,Tr-me_0616.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-glTr_0003.jpg,Tr-glTr_0003.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1232.jpg,Tr-pi_1232.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1098.jpg,Tr-gl_1098.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0946.jpg,Tr-me_0946.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0742.jpg,Tr-gl_0742.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0282.jpg,Tr-pi_0282.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0868.jpg,Tr-gl_0868.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0914.jpg,Tr-gl_0914.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0347.jpg,Tr-me_0347.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0061.jpg,Tr-gl_0061.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0872.jpg,Tr-pi_0872.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0698.jpg,Tr-pi_0698.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0968.jpg,Tr-gl_0968.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0341.jpg,Tr-me_0341.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1223.jpg,Tr-pi_1223.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0582.jpg,Tr-pi_0582.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0296.jpg,Tr-pi_0296.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1037.jpg,Tr-gl_1037.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1178.jpg,Tr-pi_1178.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0235.jpg,Tr-pi_0235.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0952.jpg,Tr-me_0952.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1135.jpg,Tr-me_1135.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0119.jpg,Tr-gl_0119.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0998.jpg,Tr-gl_0998.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0679.jpg,Tr-gl_0679.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0646.jpg,Tr-pi_0646.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1003.jpg,Tr-me_1003.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0766.jpg,Tr-gl_0766.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0170.jpg,Tr-pi_0170.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1046.jpg,Tr-me_1046.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0473.jpg,Tr-gl_0473.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0946.jpg,Tr-gl_0946.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0019.jpg,Tr-pi_0019.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0939.jpg,Tr-gl_0939.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0486.jpg,Tr-gl_0486.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1358.jpg,Tr-pi_1358.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0526.jpg,Tr-me_0526.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0857.jpg,Tr-me_0857.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1187.jpg,Tr-me_1187.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0305.jpg,Tr-gl_0305.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1247.jpg,Tr-pi_1247.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0973.jpg,Tr-gl_0973.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0749.jpg,Tr-me_0749.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0609.jpg,Tr-gl_0609.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1307.jpg,Tr-gl_1307.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0037.jpg,Tr-pi_0037.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0755.jpg,Tr-gl_0755.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0504.jpg,Tr-gl_0504.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0211.jpg,Tr-me_0211.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0078.jpg,Tr-gl_0078.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0189.jpg,Tr-me_0189.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0880.jpg,Tr-gl_0880.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1174.jpg,Tr-pi_1174.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0436.jpg,Tr-me_0436.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0427.jpg,Tr-me_0427.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0443.jpg,Tr-pi_0443.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1020.jpg,Tr-me_1020.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0913.jpg,Tr-pi_0913.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1099.jpg,Tr-me_1099.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0456.jpg,Tr-me_0456.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0442.jpg,Tr-pi_0442.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0864.jpg,Tr-me_0864.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1225.jpg,Tr-pi_1225.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1274.jpg,Tr-pi_1274.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1160.jpg,Tr-gl_1160.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0999.jpg,Tr-gl_0999.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1359.jpg,Tr-pi_1359.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0037.jpg,Tr-gl_0037.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0306.jpg,Tr-me_0306.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0429.jpg,Tr-gl_0429.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0859.jpg,Tr-gl_0859.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0750.jpg,Tr-me_0750.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0079.jpg,Tr-pi_0079.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0724.jpg,Tr-gl_0724.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1136.jpg,Tr-me_1136.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0929.jpg,Tr-gl_0929.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0028.jpg,Tr-me_0028.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0407.jpg,Tr-me_0407.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0243.jpg,Tr-gl_0243.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0055.jpg,Tr-me_0055.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0736.jpg,Tr-gl_0736.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1260.jpg,Tr-pi_1260.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1176.jpg,Tr-me_1176.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0935.jpg,Tr-me_0935.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0556.jpg,Tr-me_0556.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0314.jpg,Tr-pi_0314.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0338.jpg,Tr-pi_0338.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0997.jpg,Tr-me_0997.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0807.jpg,Tr-gl_0807.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0677.jpg,Tr-me_0677.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0805.jpg,Tr-pi_0805.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1428.jpg,Tr-pi_1428.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1370.jpg,Tr-pi_1370.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0710.jpg,Tr-me_0710.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0793.jpg,Tr-me_0793.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0205.jpg,Tr-gl_0205.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0463.jpg,Tr-pi_0463.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0966.jpg,Tr-me_0966.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0551.jpg,Tr-pi_0551.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0999.jpg,Tr-pi_0999.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0597.jpg,Tr-me_0597.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0631.jpg,Tr-me_0631.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1148.jpg,Tr-me_1148.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0457.jpg,Tr-me_0457.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0947.jpg,Tr-me_0947.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1122.jpg,Tr-me_1122.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1234.jpg,Tr-me_1234.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0180.jpg,Tr-me_0180.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0674.jpg,Tr-gl_0674.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0078.jpg,Tr-pi_0078.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0713.jpg,Tr-gl_0713.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0374.jpg,Tr-me_0374.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0880.jpg,Tr-me_0880.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0100.jpg,Tr-pi_0100.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0607.jpg,Tr-gl_0607.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1059.jpg,Tr-pi_1059.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1434.jpg,Tr-pi_1434.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0818.jpg,Tr-gl_0818.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1276.jpg,Tr-me_1276.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0444.jpg,Tr-pi_0444.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-meTr_0003.jpg,Tr-meTr_0003.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0439.jpg,Tr-pi_0439.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0895.jpg,Tr-gl_0895.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0852.jpg,Tr-me_0852.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0991.jpg,Tr-pi_0991.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0805.jpg,Tr-me_0805.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0772.jpg,Tr-gl_0772.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0213.jpg,Tr-me_0213.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0233.jpg,Tr-gl_0233.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0200.jpg,Tr-gl_0200.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0424.jpg,Tr-gl_0424.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0919.jpg,Tr-gl_0919.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0964.jpg,Tr-pi_0964.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0988.jpg,Tr-me_0988.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0960.jpg,Tr-gl_0960.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0187.jpg,Tr-pi_0187.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0528.jpg,Tr-me_0528.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0795.jpg,Tr-pi_0795.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1199.jpg,Tr-pi_1199.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1283.jpg,Tr-me_1283.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0386.jpg,Tr-pi_0386.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0904.jpg,Tr-gl_0904.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0668.jpg,Tr-me_0668.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0648.jpg,Tr-pi_0648.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1017.jpg,Tr-pi_1017.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0561.jpg,Tr-me_0561.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0175.jpg,Tr-pi_0175.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0280.jpg,Tr-gl_0280.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0269.jpg,Tr-pi_0269.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0040.jpg,Tr-me_0040.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0821.jpg,Tr-me_0821.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0995.jpg,Tr-me_0995.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1019.jpg,Tr-gl_1019.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0160.jpg,Tr-me_0160.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1362.jpg,Tr-pi_1362.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1212.jpg,Tr-pi_1212.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0164.jpg,Tr-pi_0164.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1115.jpg,Tr-gl_1115.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0959.jpg,Tr-pi_0959.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1185.jpg,Tr-pi_1185.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0110.jpg,Tr-pi_0110.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1051.jpg,Tr-me_1051.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0535.jpg,Tr-me_0535.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0982.jpg,Tr-me_0982.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0599.jpg,Tr-gl_0599.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0723.jpg,Tr-gl_0723.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0172.jpg,Tr-me_0172.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0953.jpg,Tr-gl_0953.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0152.jpg,Tr-pi_0152.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0212.jpg,Tr-gl_0212.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0507.jpg,Tr-pi_0507.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1016.jpg,Tr-pi_1016.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1185.jpg,Tr-me_1185.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0018.jpg,Tr-me_0018.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1061.jpg,Tr-pi_1061.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0507.jpg,Tr-me_0507.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0898.jpg,Tr-me_0898.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0931.jpg,Tr-pi_0931.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1130.jpg,Tr-me_1130.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0458.jpg,Tr-pi_0458.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1269.jpg,Tr-gl_1269.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0090.jpg,Tr-me_0090.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0721.jpg,Tr-me_0721.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0629.jpg,Tr-gl_0629.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0367.jpg,Tr-me_0367.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0093.jpg,Tr-gl_0093.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0687.jpg,Tr-pi_0687.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0860.jpg,Tr-pi_0860.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0858.jpg,Tr-gl_0858.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0770.jpg,Tr-me_0770.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0119.jpg,Tr-me_0119.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1062.jpg,Tr-me_1062.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1161.jpg,Tr-pi_1161.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1017.jpg,Tr-me_1017.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0914.jpg,Tr-me_0914.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0349.jpg,Tr-pi_0349.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0734.jpg,Tr-pi_0734.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0729.jpg,Tr-gl_0729.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0667.jpg,Tr-me_0667.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0150.jpg,Tr-pi_0150.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0278.jpg,Tr-pi_0278.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0140.jpg,Tr-gl_0140.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0732.jpg,Tr-me_0732.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1233.jpg,Tr-gl_1233.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0288.jpg,Tr-me_0288.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0348.jpg,Tr-gl_0348.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0706.jpg,Tr-gl_0706.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1234.jpg,Tr-gl_1234.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0492.jpg,Tr-me_0492.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0077.jpg,Tr-me_0077.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0767.jpg,Tr-gl_0767.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1036.jpg,Tr-gl_1036.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0972.jpg,Tr-gl_0972.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0181.jpg,Tr-me_0181.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0499.jpg,Tr-gl_0499.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1067.jpg,Tr-pi_1067.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0709.jpg,Tr-pi_0709.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0195.jpg,Tr-me_0195.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1142.jpg,Tr-gl_1142.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0705.jpg,Tr-me_0705.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0688.jpg,Tr-pi_0688.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0734.jpg,Tr-me_0734.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0019.jpg,Tr-me_0019.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0869.jpg,Tr-me_0869.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1272.jpg,Tr-gl_1272.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1256.jpg,Tr-pi_1256.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0647.jpg,Tr-me_0647.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0915.jpg,Tr-pi_0915.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0926.jpg,Tr-pi_0926.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1140.jpg,Tr-pi_1140.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0904.jpg,Tr-me_0904.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0764.jpg,Tr-pi_0764.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1424.jpg,Tr-pi_1424.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0691.jpg,Tr-gl_0691.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0085.jpg,Tr-me_0085.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0515.jpg,Tr-pi_0515.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0917.jpg,Tr-me_0917.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1307.jpg,Tr-pi_1307.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0764.jpg,Tr-gl_0764.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0057.jpg,Tr-gl_0057.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0240.jpg,Tr-pi_0240.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0229.jpg,Tr-pi_0229.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1103.jpg,Tr-pi_1103.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0172.jpg,Tr-pi_0172.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0745.jpg,Tr-gl_0745.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0779.jpg,Tr-pi_0779.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0571.jpg,Tr-gl_0571.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0194.jpg,Tr-me_0194.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0649.jpg,Tr-gl_0649.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0982.jpg,Tr-pi_0982.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1100.jpg,Tr-gl_1100.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0479.jpg,Tr-pi_0479.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0020.jpg,Tr-pi_0020.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0916.jpg,Tr-pi_0916.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-piTr_0003.jpg,Tr-piTr_0003.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0774.jpg,Tr-gl_0774.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0415.jpg,Tr-pi_0415.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0666.jpg,Tr-me_0666.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1397.jpg,Tr-pi_1397.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0393.jpg,Tr-me_0393.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0414.jpg,Tr-gl_0414.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0533.jpg,Tr-gl_0533.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0538.jpg,Tr-gl_0538.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0462.jpg,Tr-gl_0462.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0689.jpg,Tr-me_0689.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0068.jpg,Tr-pi_0068.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0230.jpg,Tr-gl_0230.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0487.jpg,Tr-pi_0487.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0683.jpg,Tr-me_0683.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0745.jpg,Tr-pi_0745.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0759.jpg,Tr-pi_0759.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0191.jpg,Tr-gl_0191.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0930.jpg,Tr-pi_0930.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1337.jpg,Tr-me_1337.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-glTr_0000.jpg,Tr-glTr_0000.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0574.jpg,Tr-me_0574.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1074.jpg,Tr-pi_1074.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0436.jpg,Tr-gl_0436.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1213.jpg,Tr-me_1213.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0977.jpg,Tr-me_0977.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1284.jpg,Tr-gl_1284.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1332.jpg,Tr-me_1332.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0423.jpg,Tr-me_0423.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0438.jpg,Tr-me_0438.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1025.jpg,Tr-pi_1025.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1263.jpg,Tr-pi_1263.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0544.jpg,Tr-pi_0544.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0532.jpg,Tr-gl_0532.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0623.jpg,Tr-me_0623.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1162.jpg,Tr-gl_1162.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0340.jpg,Tr-gl_0340.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1312.jpg,Tr-gl_1312.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0491.jpg,Tr-pi_0491.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0292.jpg,Tr-me_0292.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1165.jpg,Tr-pi_1165.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1148.jpg,Tr-gl_1148.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0251.jpg,Tr-pi_0251.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0102.jpg,Tr-me_0102.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0258.jpg,Tr-pi_0258.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0879.jpg,Tr-me_0879.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0463.jpg,Tr-me_0463.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0267.jpg,Tr-gl_0267.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0478.jpg,Tr-me_0478.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1328.jpg,Tr-me_1328.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0777.jpg,Tr-pi_0777.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0149.jpg,Tr-pi_0149.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0525.jpg,Tr-pi_0525.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0889.jpg,Tr-gl_0889.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0012.jpg,Tr-pi_0012.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0394.jpg,Tr-pi_0394.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0518.jpg,Tr-pi_0518.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0570.jpg,Tr-gl_0570.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0968.jpg,Tr-pi_0968.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1190.jpg,Tr-pi_1190.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1020.jpg,Tr-pi_1020.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1068.jpg,Tr-pi_1068.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0773.jpg,Tr-me_0773.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0188.jpg,Tr-pi_0188.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0387.jpg,Tr-gl_0387.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0305.jpg,Tr-me_0305.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1005.jpg,Tr-pi_1005.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0246.jpg,Tr-gl_0246.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0323.jpg,Tr-gl_0323.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0151.jpg,Tr-me_0151.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0679.jpg,Tr-me_0679.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0092.jpg,Tr-pi_0092.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0471.jpg,Tr-gl_0471.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1016.jpg,Tr-gl_1016.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0624.jpg,Tr-gl_0624.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0247.jpg,Tr-gl_0247.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1284.jpg,Tr-pi_1284.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0522.jpg,Tr-gl_0522.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0773.jpg,Tr-gl_0773.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0634.jpg,Tr-gl_0634.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0389.jpg,Tr-pi_0389.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0281.jpg,Tr-pi_0281.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0296.jpg,Tr-gl_0296.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0394.jpg,Tr-gl_0394.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0818.jpg,Tr-me_0818.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1118.jpg,Tr-me_1118.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0129.jpg,Tr-pi_0129.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0799.jpg,Tr-gl_0799.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0470.jpg,Tr-gl_0470.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0932.jpg,Tr-pi_0932.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0214.jpg,Tr-me_0214.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0633.jpg,Tr-gl_0633.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0945.jpg,Tr-gl_0945.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0614.jpg,Tr-gl_0614.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0961.jpg,Tr-gl_0961.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0319.jpg,Tr-me_0319.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0918.jpg,Tr-gl_0918.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0060.jpg,Tr-gl_0060.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1205.jpg,Tr-me_1205.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0502.jpg,Tr-pi_0502.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1189.jpg,Tr-me_1189.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0719.jpg,Tr-pi_0719.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0425.jpg,Tr-me_0425.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0949.jpg,Tr-pi_0949.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0701.jpg,Tr-gl_0701.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0575.jpg,Tr-gl_0575.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0533.jpg,Tr-pi_0533.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1357.jpg,Tr-pi_1357.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1079.jpg,Tr-gl_1079.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0587.jpg,Tr-gl_0587.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0035.jpg,Tr-gl_0035.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0820.jpg,Tr-me_0820.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1195.jpg,Tr-pi_1195.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1164.jpg,Tr-me_1164.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0704.jpg,Tr-gl_0704.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0124.jpg,Tr-pi_0124.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0212.jpg,Tr-pi_0212.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0707.jpg,Tr-me_0707.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0103.jpg,Tr-me_0103.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0036.jpg,Tr-gl_0036.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0108.jpg,Tr-gl_0108.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0671.jpg,Tr-pi_0671.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0474.jpg,Tr-pi_0474.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0944.jpg,Tr-pi_0944.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0467.jpg,Tr-gl_0467.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0265.jpg,Tr-gl_0265.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1177.jpg,Tr-gl_1177.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0248.jpg,Tr-me_0248.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1051.jpg,Tr-pi_1051.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0897.jpg,Tr-me_0897.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1248.jpg,Tr-pi_1248.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0481.jpg,Tr-gl_0481.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0581.jpg,Tr-me_0581.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0225.jpg,Tr-pi_0225.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0737.jpg,Tr-gl_0737.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1090.jpg,Tr-pi_1090.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0203.jpg,Tr-me_0203.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1242.jpg,Tr-gl_1242.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0314.jpg,Tr-gl_0314.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0639.jpg,Tr-me_0639.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1033.jpg,Tr-pi_1033.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0810.jpg,Tr-me_0810.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0900.jpg,Tr-pi_0900.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1106.jpg,Tr-me_1106.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1175.jpg,Tr-gl_1175.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0662.jpg,Tr-pi_0662.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0873.jpg,Tr-me_0873.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0045.jpg,Tr-gl_0045.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1203.jpg,Tr-gl_1203.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0182.jpg,Tr-gl_0182.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1061.jpg,Tr-me_1061.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0591.jpg,Tr-me_0591.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0532.jpg,Tr-me_0532.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0412.jpg,Tr-me_0412.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0539.jpg,Tr-me_0539.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0345.jpg,Tr-gl_0345.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1314.jpg,Tr-gl_1314.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1029.jpg,Tr-pi_1029.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0340.jpg,Tr-me_0340.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0867.jpg,Tr-me_0867.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0825.jpg,Tr-gl_0825.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0309.jpg,Tr-me_0309.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1170.jpg,Tr-pi_1170.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0359.jpg,Tr-gl_0359.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0643.jpg,Tr-gl_0643.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0275.jpg,Tr-pi_0275.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0922.jpg,Tr-me_0922.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0018.jpg,Tr-pi_0018.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0783.jpg,Tr-me_0783.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0435.jpg,Tr-me_0435.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0174.jpg,Tr-gl_0174.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0413.jpg,Tr-gl_0413.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0748.jpg,Tr-pi_0748.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0322.jpg,Tr-gl_0322.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0287.jpg,Tr-gl_0287.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0864.jpg,Tr-pi_0864.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0111.jpg,Tr-pi_0111.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0784.jpg,Tr-me_0784.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0089.jpg,Tr-me_0089.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1150.jpg,Tr-pi_1150.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0867.jpg,Tr-pi_0867.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0316.jpg,Tr-me_0316.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0065.jpg,Tr-pi_0065.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0788.jpg,Tr-me_0788.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1052.jpg,Tr-pi_1052.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0709.jpg,Tr-me_0709.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1037.jpg,Tr-pi_1037.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0942.jpg,Tr-pi_0942.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0158.jpg,Tr-pi_0158.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0567.jpg,Tr-gl_0567.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0340.jpg,Tr-pi_0340.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0325.jpg,Tr-me_0325.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0513.jpg,Tr-gl_0513.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0902.jpg,Tr-gl_0902.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0717.jpg,Tr-gl_0717.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0623.jpg,Tr-gl_0623.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1131.jpg,Tr-me_1131.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0620.jpg,Tr-gl_0620.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0327.jpg,Tr-gl_0327.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0939.jpg,Tr-pi_0939.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1282.jpg,Tr-me_1282.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0123.jpg,Tr-pi_0123.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1210.jpg,Tr-pi_1210.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0531.jpg,Tr-pi_0531.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0209.jpg,Tr-gl_0209.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0546.jpg,Tr-gl_0546.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0849.jpg,Tr-pi_0849.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0755.jpg,Tr-pi_0755.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0329.jpg,Tr-me_0329.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0892.jpg,Tr-pi_0892.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1129.jpg,Tr-gl_1129.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1317.jpg,Tr-me_1317.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1429.jpg,Tr-pi_1429.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0550.jpg,Tr-pi_0550.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0099.jpg,Tr-gl_0099.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1382.jpg,Tr-pi_1382.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0286.jpg,Tr-pi_0286.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0888.jpg,Tr-gl_0888.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0302.jpg,Tr-me_0302.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0564.jpg,Tr-pi_0564.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0147.jpg,Tr-me_0147.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1030.jpg,Tr-pi_1030.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0533.jpg,Tr-me_0533.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0372.jpg,Tr-me_0372.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0890.jpg,Tr-me_0890.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0343.jpg,Tr-gl_0343.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0099.jpg,Tr-me_0099.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0218.jpg,Tr-me_0218.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0141.jpg,Tr-gl_0141.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0309.jpg,Tr-pi_0309.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1174.jpg,Tr-gl_1174.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1104.jpg,Tr-gl_1104.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1294.jpg,Tr-me_1294.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0217.jpg,Tr-pi_0217.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0384.jpg,Tr-pi_0384.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0802.jpg,Tr-gl_0802.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0711.jpg,Tr-me_0711.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1273.jpg,Tr-me_1273.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0610.jpg,Tr-me_0610.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1268.jpg,Tr-gl_1268.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1451.jpg,Tr-pi_1451.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0276.jpg,Tr-gl_0276.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1161.jpg,Tr-gl_1161.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0932.jpg,Tr-me_0932.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0877.jpg,Tr-gl_0877.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0739.jpg,Tr-pi_0739.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1226.jpg,Tr-gl_1226.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1288.jpg,Tr-gl_1288.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1067.jpg,Tr-me_1067.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1053.jpg,Tr-gl_1053.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1182.jpg,Tr-pi_1182.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0657.jpg,Tr-gl_0657.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0023.jpg,Tr-gl_0023.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0911.jpg,Tr-pi_0911.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0724.jpg,Tr-pi_0724.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0578.jpg,Tr-gl_0578.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0928.jpg,Tr-gl_0928.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0688.jpg,Tr-me_0688.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0811.jpg,Tr-me_0811.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1264.jpg,Tr-pi_1264.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0977.jpg,Tr-pi_0977.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0913.jpg,Tr-gl_0913.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0885.jpg,Tr-gl_0885.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0694.jpg,Tr-gl_0694.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1162.jpg,Tr-me_1162.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1113.jpg,Tr-gl_1113.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0274.jpg,Tr-gl_0274.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0944.jpg,Tr-me_0944.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1041.jpg,Tr-gl_1041.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0114.jpg,Tr-gl_0114.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0919.jpg,Tr-me_0919.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0425.jpg,Tr-gl_0425.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0189.jpg,Tr-gl_0189.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0328.jpg,Tr-pi_0328.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0879.jpg,Tr-pi_0879.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0554.jpg,Tr-me_0554.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0022.jpg,Tr-pi_0022.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0433.jpg,Tr-pi_0433.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1057.jpg,Tr-pi_1057.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0689.jpg,Tr-gl_0689.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0673.jpg,Tr-gl_0673.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0682.jpg,Tr-me_0682.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0668.jpg,Tr-pi_0668.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1133.jpg,Tr-me_1133.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0418.jpg,Tr-gl_0418.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0088.jpg,Tr-gl_0088.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0754.jpg,Tr-pi_0754.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0204.jpg,Tr-gl_0204.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0341.jpg,Tr-gl_0341.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0681.jpg,Tr-pi_0681.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0924.jpg,Tr-gl_0924.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1413.jpg,Tr-pi_1413.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0996.jpg,Tr-gl_0996.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1220.jpg,Tr-pi_1220.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0620.jpg,Tr-me_0620.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0986.jpg,Tr-gl_0986.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0894.jpg,Tr-gl_0894.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0138.jpg,Tr-me_0138.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0335.jpg,Tr-pi_0335.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0869.jpg,Tr-gl_0869.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0753.jpg,Tr-gl_0753.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0628.jpg,Tr-pi_0628.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0999.jpg,Tr-me_0999.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0476.jpg,Tr-pi_0476.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1276.jpg,Tr-pi_1276.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1154.jpg,Tr-me_1154.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0676.jpg,Tr-gl_0676.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1001.jpg,Tr-pi_1001.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0153.jpg,Tr-gl_0153.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0646.jpg,Tr-gl_0646.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0146.jpg,Tr-pi_0146.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1008.jpg,Tr-me_1008.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0483.jpg,Tr-me_0483.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1110.jpg,Tr-pi_1110.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0222.jpg,Tr-pi_0222.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0896.jpg,Tr-pi_0896.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1309.jpg,Tr-me_1309.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1095.jpg,Tr-gl_1095.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1293.jpg,Tr-me_1293.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1273.jpg,Tr-gl_1273.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0195.jpg,Tr-pi_0195.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1203.jpg,Tr-me_1203.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0223.jpg,Tr-gl_0223.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0114.jpg,Tr-me_0114.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1179.jpg,Tr-me_1179.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1210.jpg,Tr-gl_1210.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0374.jpg,Tr-gl_0374.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1137.jpg,Tr-me_1137.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0692.jpg,Tr-gl_0692.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0865.jpg,Tr-pi_0865.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0753.jpg,Tr-pi_0753.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0266.jpg,Tr-me_0266.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0366.jpg,Tr-gl_0366.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0173.jpg,Tr-me_0173.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1045.jpg,Tr-gl_1045.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0761.jpg,Tr-pi_0761.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1170.jpg,Tr-me_1170.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0469.jpg,Tr-pi_0469.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0938.jpg,Tr-pi_0938.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0049.jpg,Tr-me_0049.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1289.jpg,Tr-pi_1289.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1438.jpg,Tr-pi_1438.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1039.jpg,Tr-pi_1039.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1054.jpg,Tr-gl_1054.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1347.jpg,Tr-pi_1347.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1100.jpg,Tr-pi_1100.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0120.jpg,Tr-gl_0120.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0388.jpg,Tr-gl_0388.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0539.jpg,Tr-gl_0539.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1290.jpg,Tr-me_1290.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0684.jpg,Tr-pi_0684.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0581.jpg,Tr-pi_0581.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0415.jpg,Tr-me_0415.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0224.jpg,Tr-pi_0224.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0332.jpg,Tr-gl_0332.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0420.jpg,Tr-gl_0420.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0014.jpg,Tr-pi_0014.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0945.jpg,Tr-me_0945.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0260.jpg,Tr-pi_0260.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1191.jpg,Tr-pi_1191.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0504.jpg,Tr-pi_0504.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0648.jpg,Tr-me_0648.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0062.jpg,Tr-pi_0062.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1007.jpg,Tr-pi_1007.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0580.jpg,Tr-pi_0580.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1206.jpg,Tr-pi_1206.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1400.jpg,Tr-pi_1400.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0159.jpg,Tr-gl_0159.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0825.jpg,Tr-pi_0825.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0641.jpg,Tr-gl_0641.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1215.jpg,Tr-me_1215.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1201.jpg,Tr-me_1201.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0741.jpg,Tr-gl_0741.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1404.jpg,Tr-pi_1404.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0788.jpg,Tr-gl_0788.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1179.jpg,Tr-gl_1179.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0374.jpg,Tr-pi_0374.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0958.jpg,Tr-gl_0958.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0853.jpg,Tr-pi_0853.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1021.jpg,Tr-me_1021.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1417.jpg,Tr-pi_1417.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0139.jpg,Tr-me_0139.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0444.jpg,Tr-me_0444.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1100.jpg,Tr-me_1100.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0168.jpg,Tr-pi_0168.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0967.jpg,Tr-gl_0967.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1237.jpg,Tr-pi_1237.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1116.jpg,Tr-pi_1116.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0894.jpg,Tr-me_0894.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0320.jpg,Tr-me_0320.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0118.jpg,Tr-gl_0118.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0501.jpg,Tr-me_0501.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0331.jpg,Tr-pi_0331.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0233.jpg,Tr-pi_0233.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0931.jpg,Tr-me_0931.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0497.jpg,Tr-me_0497.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0034.jpg,Tr-gl_0034.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0887.jpg,Tr-me_0887.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0346.jpg,Tr-gl_0346.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0443.jpg,Tr-me_0443.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0779.jpg,Tr-gl_0779.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0824.jpg,Tr-pi_0824.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1009.jpg,Tr-me_1009.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1272.jpg,Tr-pi_1272.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0454.jpg,Tr-me_0454.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0310.jpg,Tr-gl_0310.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0973.jpg,Tr-pi_0973.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0057.jpg,Tr-me_0057.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1227.jpg,Tr-pi_1227.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0697.jpg,Tr-pi_0697.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0210.jpg,Tr-gl_0210.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0064.jpg,Tr-me_0064.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0169.jpg,Tr-gl_0169.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0311.jpg,Tr-gl_0311.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1076.jpg,Tr-gl_1076.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0236.jpg,Tr-pi_0236.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1071.jpg,Tr-me_1071.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0741.jpg,Tr-me_0741.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0690.jpg,Tr-gl_0690.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0856.jpg,Tr-gl_0856.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1214.jpg,Tr-gl_1214.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1080.jpg,Tr-gl_1080.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1339.jpg,Tr-pi_1339.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0057.jpg,Tr-pi_0057.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1221.jpg,Tr-gl_1221.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0510.jpg,Tr-gl_0510.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0817.jpg,Tr-pi_0817.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0367.jpg,Tr-pi_0367.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1072.jpg,Tr-me_1072.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1392.jpg,Tr-pi_1392.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1270.jpg,Tr-gl_1270.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0024.jpg,Tr-gl_0024.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0163.jpg,Tr-me_0163.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0813.jpg,Tr-pi_0813.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0095.jpg,Tr-gl_0095.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0490.jpg,Tr-pi_0490.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1253.jpg,Tr-gl_1253.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0207.jpg,Tr-me_0207.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_1244.jpg,Tr-gl_1244.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0030.jpg,Tr-me_0030.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0616.jpg,Tr-gl_0616.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_0098.jpg,Tr-me_0098.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0620.jpg,Tr-pi_0620.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0636.jpg,Tr-pi_0636.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0652.jpg,Tr-pi_0652.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0362.jpg,Tr-pi_0362.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0446.jpg,Tr-gl_0446.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0071.jpg,Tr-pi_0071.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0268.jpg,Tr-gl_0268.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_0029.jpg,Tr-pi_0029.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0899.jpg,Tr-gl_0899.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-gl_0957.jpg,Tr-gl_0957.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1176.jpg,Tr-pi_1176.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-pi_1415.jpg,Tr-pi_1415.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1302.jpg,Tr-me_1302.jpg,1
+data/brain_tumor_mri/Training/tumor/Tr-me_1218.jpg,Tr-me_1218.jpg,1
